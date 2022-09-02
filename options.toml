@@ -1,0 +1,4 @@
+pack_directory = '/home/user/Desktop/vpvpedits/pack'
+
+['**/{CREDITS,LICENSE}']
+force_include = true
