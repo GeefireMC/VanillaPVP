@@ -1,4 +1,4 @@
-pack_directory = '/home/user/Desktop/vpvpedits/pack'
+pack_directory = '/home/user/Documents/GitHub/VanillaPVP/pack'
 
 ['**/{CREDITS,LICENSE}']
 force_include = true

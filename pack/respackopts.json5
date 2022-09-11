@@ -1,0 +1,18 @@
+{
+    id: "VanillaPVP",
+    version: 9,
+    capabilities: ["FileFilter"],
+    conf: {
+        emissiveOres: true,
+        coloredRanged: true,
+        lowFire: true,
+        smallerTools: true,
+        transparentCrystals: true,
+        // I will figure these out later. I don't want to include directory toggles b/c the respackopts wiki says that comes at a performance disadvantage, so I have to make individual files for everything. Pain.
+        // transparentGUIs: true,
+        // transparentOverlays: true, 
+        // unobtrusiveFood: true,
+        // unobtrusiveParticles: true,
+        unobtrusiveTotems: true
+    }
+}
