@@ -8,11 +8,10 @@
         lowFire: true,
         smallerTools: true,
         transparentCrystals: true,
-        // I will figure these out later. I don't want to include directory toggles b/c the respackopts wiki says that comes at a performance disadvantage, so I have to make individual files for everything. Pain.
-        // transparentGUIs: true,
-        // transparentOverlays: true, 
-        // unobtrusiveFood: true,
-        // unobtrusiveParticles: true,
-        unobtrusiveTotems: true
+        transparentGUIs: true,
+        transparentOverlays: true, 
+        unobtrusiveFood: true,
+        unobtrusiveParticles: true,
+        unobtrusiveUtilities: true
     }
 }
