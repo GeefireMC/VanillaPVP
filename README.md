@@ -28,12 +28,6 @@ A minimally intrusive, Jappa-styled resource pack intended for PVP and competiti
 
  ![Showcase of Vanilla PVP Edits 0.1.0](https://raw.githubusercontent.com/GeefireMC/VanillaPVP/main/Modrinth%20Images/Showcase.png)
 
-## Issues
-
- Please report any issues on the Github page. If you need support, please visit the Discord for help.
- 
- Discord: https://discord.gg/DJ8qkcYfqX
-
 ## License
 
  This pack is available under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). You are free to use it in accordance with the terms listed there. Some features in this pack were taken from [Vanillatweaks.net](https://vanillatweaks.net/), credit goes to that project for all textures of theirs.
